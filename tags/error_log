@@ -1,0 +1,37 @@
+[25-Jun-2021 08:24:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/saharaskills/public_html/libs/database.php:101
+Stack trace:
+#0 /home/saharaskills/public_html/includes/s3-config.php(3): Database->select('api_settings')
+#1 /home/saharaskills/public_html/includes/db.php(24): require_once('/home/saharaski...')
+#2 /home/saharaskills/public_html/tags/tag.php(3): include('/home/saharaski...')
+#3 {main}
+  thrown in /home/saharaskills/public_html/libs/database.php on line 101
+[13-Aug-2021 21:01:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/saharaskills/public_html/libs/database.php:101
+Stack trace:
+#0 /home/saharaskills/public_html/includes/s3-config.php(3): Database->select('api_settings')
+#1 /home/saharaskills/public_html/includes/db.php(24): require_once('/home/saharaski...')
+#2 /home/saharaskills/public_html/tags/tag.php(3): include('/home/saharaski...')
+#3 {main}
+  thrown in /home/saharaskills/public_html/libs/database.php on line 101
+[08-Dec-2021 00:55:16 Africa/Johannesburg] PHP Notice:  Undefined index: dont_match in /home/saharaskills/public_html/includes/register_login_forgot_modals.php on line 95
+[08-Dec-2021 00:55:45 Africa/Johannesburg] PHP Notice:  Undefined index: dont_match in /home/saharaskills/public_html/includes/register_login_forgot_modals.php on line 95
+[21-Apr-2022 03:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/saharaskills/public_html/libs/database.php:101
+Stack trace:
+#0 /home/saharaskills/public_html/includes/s3-config.php(3): Database->select('api_settings')
+#1 /home/saharaskills/public_html/includes/db.php(24): require_once('/home/saharaski...')
+#2 /home/saharaskills/public_html/tags/tag.php(3): include('/home/saharaski...')
+#3 {main}
+  thrown in /home/saharaskills/public_html/libs/database.php on line 101
+[21-Apr-2022 03:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/saharaskills/public_html/libs/database.php:101
+Stack trace:
+#0 /home/saharaskills/public_html/includes/s3-config.php(3): Database->select('api_settings')
+#1 /home/saharaskills/public_html/includes/db.php(24): require_once('/home/saharaski...')
+#2 /home/saharaskills/public_html/tags/tag.php(3): include('/home/saharaski...')
+#3 {main}
+  thrown in /home/saharaskills/public_html/libs/database.php on line 101
+[21-Apr-2022 03:09:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/saharaskills/public_html/libs/database.php:101
+Stack trace:
+#0 /home/saharaskills/public_html/includes/s3-config.php(3): Database->select('api_settings')
+#1 /home/saharaskills/public_html/includes/db.php(24): require_once('/home/saharaski...')
+#2 /home/saharaskills/public_html/tags/tag.php(3): include('/home/saharaski...')
+#3 {main}
+  thrown in /home/saharaskills/public_html/libs/database.php on line 101

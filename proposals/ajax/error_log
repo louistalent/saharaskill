@@ -1,0 +1,15 @@
+[29-Nov-2020 08:37:36 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49
+[30-Nov-2020 23:12:38 Africa/Johannesburg] PHP Notice:  Undefined index: change_status in /home/saharaskills/public_html/proposals/ajax/edit_extra.php on line 26
+[02-Dec-2020 02:44:38 Africa/Johannesburg] PHP Notice:  Undefined index: delivery_time in /home/saharaskills/public_html/proposals/ajax/save_pricing.php on line 23
+[03-Dec-2020 11:03:20 Africa/Johannesburg] PHP Notice:  Undefined index: delivery_time in /home/saharaskills/public_html/proposals/ajax/save_pricing.php on line 23
+[04-Dec-2020 12:36:58 Africa/Johannesburg] PHP Notice:  Undefined index: change_status in /home/saharaskills/public_html/proposals/ajax/edit_extra.php on line 26
+[04-Dec-2020 12:37:04 Africa/Johannesburg] PHP Notice:  Undefined index: change_status in /home/saharaskills/public_html/proposals/ajax/edit_extra.php on line 26
+[13-Dec-2020 22:06:24 Africa/Johannesburg] PHP Notice:  Undefined index: delivery_time in /home/saharaskills/public_html/proposals/ajax/save_pricing.php on line 23
+[04-Jan-2021 01:12:36 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49
+[11-Jan-2021 17:15:24 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49
+[24-Apr-2021 19:43:14 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49
+[09-Jun-2021 20:35:37 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49
+[23-Nov-2021 03:05:24 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49
+[13-Dec-2021 08:43:18 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49
+[14-Dec-2021 18:40:57 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49
+[14-Feb-2022 08:34:29 Africa/Johannesburg] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/saharaskills/public_html/includes/commonFunctions.php on line 49

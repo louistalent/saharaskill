@@ -1,0 +1,27 @@
+[28-Nov-2020 11:51:28 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[28-Nov-2020 11:51:28 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[28-Nov-2020 11:51:28 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[28-Nov-2020 11:51:28 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[28-Nov-2020 11:51:29 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[28-Nov-2020 11:51:29 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[28-Nov-2020 11:51:29 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[28-Nov-2020 11:51:29 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[28-Nov-2020 11:51:30 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[28-Nov-2020 11:51:30 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[28-Nov-2020 11:51:33 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[28-Nov-2020 11:51:33 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[28-Nov-2020 11:51:34 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[28-Nov-2020 11:51:34 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[28-Nov-2020 11:51:36 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[28-Nov-2020 11:51:36 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[03-Dec-2020 18:31:11 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[03-Dec-2020 18:31:11 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[03-Dec-2020 18:31:12 Africa/Johannesburg] PHP Notice:  Undefined index: seller_user_name in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 9
+[03-Dec-2020 18:31:12 Africa/Johannesburg] PHP Notice:  Trying to get property 'seller_id' of non-object in /home/saharaskills/public_html/conversations/includes/display_messages.php on line 12
+[12-Aug-2021 17:30:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/saharaskills/public_html/libs/database.php:101
+Stack trace:
+#0 /home/saharaskills/public_html/includes/s3-config.php(3): Database->select('api_settings')
+#1 /home/saharaskills/public_html/includes/db.php(24): require_once('/home/saharaski...')
+#2 /home/saharaskills/public_html/conversations/includes/msgHeader.php(3): require_once('/home/saharaski...')
+#3 {main}
+  thrown in /home/saharaskills/public_html/libs/database.php on line 101

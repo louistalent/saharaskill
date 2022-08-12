@@ -1,0 +1,1 @@
+$('body').append('<section class="clearfix post_footer">@ Copyright Gemsbok Group. Owner of Sahara Skills. </section>');

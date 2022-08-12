@@ -1,0 +1,4 @@
+[01-Dec-2020 21:15:07 Africa/Johannesburg] PHP Warning:  DOMDocument::loadHTML(): Empty string supplied as input in /home/saharaskills/public_html/plugins/paymentGateway/proposals/save_video.php on line 16
+[01-Dec-2020 21:15:10 Africa/Johannesburg] PHP Warning:  DOMDocument::loadHTML(): Empty string supplied as input in /home/saharaskills/public_html/plugins/paymentGateway/proposals/save_video.php on line 16
+[01-Dec-2020 21:15:12 Africa/Johannesburg] PHP Warning:  DOMDocument::loadHTML(): Empty string supplied as input in /home/saharaskills/public_html/plugins/paymentGateway/proposals/save_video.php on line 16
+[01-Dec-2020 21:15:15 Africa/Johannesburg] PHP Warning:  DOMDocument::loadHTML(): Empty string supplied as input in /home/saharaskills/public_html/plugins/paymentGateway/proposals/save_video.php on line 16

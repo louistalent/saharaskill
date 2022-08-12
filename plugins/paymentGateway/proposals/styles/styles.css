@@ -1,0 +1,9 @@
+#video-modal .modal-dialog{
+	max-width: 550px;
+}
+#video-modal .modal-dialog .row{
+	min-height: 200px;
+}
+#video-modal .modal-dialog .row .col-8{
+	border-left: 1px solid #ccc;
+}
